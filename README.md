@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 hello i am learning git commands.
+this is my first change
 
 <!---
 theju97/theju97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
