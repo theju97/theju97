@@ -7,6 +7,7 @@ hello i am learning git commands.
 this is my first change
 THIS is written in the local pc
 dfsfdsfdjskdfj!---
+this change is done on my local pc
 theju97/theju97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
